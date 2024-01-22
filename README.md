@@ -1,3 +1,3 @@
 # A Review of Deep Learning Methods For Photoplethysmography Data
 
-The summary of our reviewed papers is demonstrated in `all_summary`
+The summary of our reviewed papers is demonstrated in `all`
